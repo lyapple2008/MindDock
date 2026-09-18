@@ -1,0 +1,15 @@
+note3.md
+  h_82733dd61c3915 1-677
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a762f8fc37818baf01880f226e25adb95c55a684",
+  "prompts": {},
+  "logical_commit_id": "a762f8fc37818baf01880f226e25adb95c55a684",
+  "humans": {
+    "h_82733dd61c3915": {
+      "author": "liuyang.marshall <liuyang.marshall@bigo.sg>"
+    }
+  }
+}
