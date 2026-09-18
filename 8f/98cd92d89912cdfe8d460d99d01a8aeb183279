@@ -1,0 +1,15 @@
+docs/learning-path.md
+  h_82733dd61c3915 1-1041
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8f98cd92d89912cdfe8d460d99d01a8aeb183279",
+  "prompts": {},
+  "logical_commit_id": "8f98cd92d89912cdfe8d460d99d01a8aeb183279",
+  "humans": {
+    "h_82733dd61c3915": {
+      "author": "liuyang.marshall <liuyang.marshall@bigo.sg>"
+    }
+  }
+}
