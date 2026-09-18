@@ -1,0 +1,2 @@
+# MindDock
+Local Personal Assitant
